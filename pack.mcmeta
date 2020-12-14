@@ -1,6 +1,6 @@
  {
        "pack": {
            "pack_format": 3,
-           "description": "Test"
+           "description": "Simple Minecraft datapack for right click detection."
        }
    }
