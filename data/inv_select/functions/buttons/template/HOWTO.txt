@@ -1,0 +1,4 @@
+Copy this folder and rename it as You want.
+Fill in the "criteria" and "action" functions.
+Add "function inv_select:buttons/<button>/criteria" at the end of the function "main".
+(Remove this file.)

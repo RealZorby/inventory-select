@@ -1,0 +1,1 @@
+execute as @e[tag=invs_detector,nbt={HandItems:[{id:<item>,Count:1b,<nbt>}]}] at @s run function inv_select:buttons/<button>/action

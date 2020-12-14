@@ -1,0 +1,1 @@
+tellraw @s [{"text": "Iventory Select Config", "bold": true}, {"text": "\n\nthere is no config lol"}]
